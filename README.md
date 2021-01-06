@@ -1,0 +1,2 @@
+# hdidle
+Spindown inactive disks.
